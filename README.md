@@ -1,4 +1,5 @@
 # Linear-regression-on-wine-quality-dataset
+I had taken this project from https://machinelearningmastery.com/implement-linear-regression-stochastic-gradient-descent-scratch-python/
 
 In this we will train a linear regression model using stochastic gradient descent on the wine quality dataset.
 
